@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap");
+
+html {
+  background-color: rgb(23 23 23);
+}
+
+#app {
+  font-size: 48px;
+  font-family: "Roboto";
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(245 245 245);
+}
+
+.typewriter-text-0 {
+  color: rgb(34 197 94);
+}
+
+.typewriter-text-1 {
+  color: rgb(6 182 212);
+}
+.typewriter-text-2 {
+  color: rgb(139 92 246);
+}
